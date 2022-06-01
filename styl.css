@@ -1,0 +1,136 @@
+
+*{
+    background-color: rgba(4, 7, 48, 0.87);
+    padding: 0% ;
+    border: 0px   crimson  solid;
+    box-shadow: 0 5px 8px 0 crimson;
+    transition: 0.3s;
+    border-radius: 10px;
+    margin-left: 1px;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+
+    
+   
+}
+*:hover {
+  box-shadow: 0 9px 16px 0 crimson;
+}
+
+
+.moh1 {
+
+  border-left: 10px;
+
+ box-shadow: 0 5px 8px 0 rgb(202, 0, 0);
+transition: 0.3s;
+  }
+.moh1:hover {
+  box-shadow: 0 9px 16px 0 rgb(255, 0, 0);
+}
+
+
+
+.moh2 {
+
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh2:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+ }
+
+ .moh3 {
+
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh3:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 9, 9);
+ }
+ .moh4 {
+
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh4:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+ }
+
+
+ .moh5 {
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh5:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+ }
+
+
+ .moh6 {
+
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh6:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+ }
+ .moh7 {
+
+  box-shadow: 0 4px 8px 0 rgb(255, 0, 0);
+ transition: 0.3s;
+   }
+ .moh7:hover {
+   box-shadow: 0 8px 16px 0 rgb(255, 0, 0);
+ }
+
+ .moh8 {
+
+
+  box-shadow: 0 4px 8px 0 rgba(252, 0, 0, 0.979);
+ transition: 0.3s;
+   }
+ .moh8:hover {
+   box-shadow: 0 8px 16px 0 rgb(243, 2, 2);
+ }
+
+
+
+
+h2{
+    size: 10px;
+    font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: aliceblue;
+    background-color: crimson;
+    border: 5px 8;
+    border-width: 8;
+    border-radius: 8;
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    -ms-border-radius: 8;
+    -o-border-radius: 8;
+    text-align: center;
+}
+
+
+h3{
+  size: 10px;
+  font-family:  'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: aliceblue;
+  background-color: crimson;
+  border: 5px 8;
+  border-width: 8;
+  border-radius: 8;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  -ms-border-radius: 8;
+  -o-border-radius: 8;
+  text-align: center;
+}
